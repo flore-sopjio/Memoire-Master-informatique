@@ -1,0 +1,13 @@
+\let\oldprintchaptertitle=\printchaptertitle
+\renewcommand{\printchaptertitle}[1]{%
+	\vspace*{-75pt}
+	\oldprintchaptertitle{#1}
+}%
+\myChapterStar{Abstract}{}{section}
+\let\printchaptertitle=\oldprintchaptertitle
+The work presented ...
+
+\vspace{1cm}
+\noindent\textbf{Keywords:} Structured documents, Worflow of cooperative edition, Merging partial replicas, Conflict, Consensus, Tree automata, Automata product, Lazy evaluation, TinyCE v2.
+
+\myCleanStarChapterEnd

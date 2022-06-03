@@ -1,0 +1,40 @@
+\babel@toc {english}{}\relax
+\addvspace {10pt}
+\contentsline {figure}{\numberline {1}{\ignorespaces Modèle de base du contrôle d'accès\relax }}{8}{figure.caption.18}%
+\contentsline {figure}{\numberline {2}{\ignorespaces Contrôle d'accès et autres services de sécurité\relax }}{10}{figure.caption.19}%
+\addvspace {10pt}
+\contentsline {figure}{\numberline {3}{\ignorespaces exemple de matrice d'accès\relax }}{14}{figure.caption.20}%
+\contentsline {figure}{\numberline {4}{\ignorespaces ACL de la matrice d'accès ci-dessus\relax }}{16}{figure.caption.21}%
+\contentsline {figure}{\numberline {5}{\ignorespaces Attribution des permissions aux sujets à travers des rôles\relax }}{20}{figure.caption.22}%
+\contentsline {figure}{\numberline {6}{\ignorespaces RBAC standard\relax }}{21}{figure.caption.23}%
+\contentsline {figure}{\numberline {7}{\ignorespaces Hiérarchie RBAC\relax }}{22}{figure.caption.24}%
+\contentsline {figure}{\numberline {8}{\ignorespaces architecture de fonctionnement d'ABAC\relax }}{28}{figure.caption.25}%
+\contentsline {figure}{\numberline {9}{\ignorespaces création automatique des permissions\relax }}{32}{figure.caption.26}%
+\contentsline {figure}{\numberline {10}{\ignorespaces permissions attribuées dans le modèle RBAC\relax }}{33}{figure.caption.27}%
+\contentsline {figure}{\numberline {11}{\ignorespaces Affectation des permissions aux rôles\relax }}{34}{figure.caption.28}%
+\contentsline {figure}{\numberline {12}{\ignorespaces modèle de contrôle d'accès basé sur les rôles et amélioré par les attributs\relax }}{37}{figure.caption.29}%
+\contentsline {figure}{\numberline {13}{\ignorespaces composants du parapheur électronique\relax }}{47}{figure.caption.30}%
+\addvspace {10pt}
+\contentsline {figure}{\numberline {14}{\ignorespaces Affectation des valeurs d'attribut d'employé aux employé métiers\relax }}{52}{figure.caption.32}%
+\contentsline {figure}{\numberline {15}{\ignorespaces Affectation des valeurs d'attribut de ressource aux ressources\relax }}{52}{figure.caption.33}%
+\contentsline {figure}{\numberline {16}{\ignorespaces Structure organisationnelle d'une organisation\relax }}{54}{figure.caption.34}%
+\contentsline {figure}{\numberline {17}{\ignorespaces Affectation des valeurs d'attributs de contexte aux contextes\relax }}{55}{figure.caption.35}%
+\contentsline {figure}{\numberline {18}{\ignorespaces Diagramme de classes de la relation emploie\relax }}{56}{figure.caption.36}%
+\contentsline {figure}{\numberline {19}{\ignorespaces Diagramme de classes de la relation nomme\relax }}{56}{figure.caption.37}%
+\contentsline {figure}{\numberline {20}{\ignorespaces Diagramme de classes de la relation place-sous\relax }}{57}{figure.caption.38}%
+\contentsline {figure}{\numberline {21}{\ignorespaces Diagramme de classes de la relation subordonne\relax }}{57}{figure.caption.39}%
+\contentsline {figure}{\numberline {22}{\ignorespaces Diagramme de classes de la relation Utilise\relax }}{58}{figure.caption.40}%
+\contentsline {figure}{\numberline {23}{\ignorespaces Diagramme de classes de la relation considère\relax }}{58}{figure.caption.41}%
+\contentsline {figure}{\numberline {24}{\ignorespaces Diagramme de classes de la relation définit\relax }}{59}{figure.caption.42}%
+\contentsline {figure}{\numberline {25}{\ignorespaces Diagramme de classes de la relation permission-opérationnelle\relax }}{59}{figure.caption.43}%
+\contentsline {figure}{\numberline {26}{\ignorespaces Diagramme de classes de la relation permission-Administrative\relax }}{60}{figure.caption.44}%
+\contentsline {figure}{\numberline {27}{\ignorespaces Diagramme de classes de la relation peut-suggérer\relax }}{61}{figure.caption.45}%
+\contentsline {figure}{\numberline {28}{\ignorespaces Diagramme de classes de la relation peut-traiter\relax }}{61}{figure.caption.46}%
+\contentsline {figure}{\numberline {29}{\ignorespaces Affectation des règles aux permissions de bas niveaux 1\relax }}{61}{figure.caption.47}%
+\contentsline {figure}{\numberline {30}{\ignorespaces Affectation des règles aux permissions de bas niveaux 2\relax }}{62}{figure.caption.48}%
+\contentsline {figure}{\numberline {31}{\ignorespaces Algorithme d'émission du parapheur électronique\relax }}{65}{figure.caption.49}%
+\contentsline {figure}{\numberline {32}{\ignorespaces Algorithme de traitement du parapheur électronique\relax }}{67}{figure.caption.50}%
+\addvspace {10pt}
+\addvspace {10pt}
+\addvspace {10pt}
+\contentsfinish

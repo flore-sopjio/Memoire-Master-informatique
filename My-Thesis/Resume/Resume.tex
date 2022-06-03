@@ -1,0 +1,13 @@
+\let\oldprintchaptertitle=\printchaptertitle
+\renewcommand{\printchaptertitle}[1]{%
+	\vspace*{-75pt}
+	\oldprintchaptertitle{#1}
+}%
+\myChapterStar{Résumé}{}{section}
+\let\printchaptertitle=\oldprintchaptertitle
+Le travail réalisé dans ce mémoire...
+
+\vspace{1cm}
+\noindent\textbf{Mots clés:} Documents structur\'es, Workflow d'addition Coop\'erative,  Fusion des r\'epliques partielles, Conflits, Consensus, Automates d'arbre, Produit d'automates,  évaluation paresseuse, TinyCE v2.
+
+\myCleanStarChapterEnd

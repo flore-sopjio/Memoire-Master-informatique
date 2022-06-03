@@ -1,0 +1,78 @@
+\begin{thebibliography}{10}
+
+\bibitem{abou03}
+Anas Abou El~Kalam, Rania El~Baida, Philippe Balbiani, Salem Benferhat,
+  Frédéric Cuppens, Yves Deswarte, Alexandre Miege, Claire Saurel, and Gilles
+  Trouessin.
+\newblock Or-bac: un modèle de contrôle d’accès basé sur les
+  organisations.
+\newblock {\em Cahiers francophones de la recherche en sécurité de l>
+  information. II, 30}, 43, 2003.
+
+\bibitem{bellettini01}
+Carlo Bellettini, Elisa Bertino, and Elena Ferrari.
+\newblock Role based access control models.
+\newblock {\em Information security technical report}, 2(6):21--29, 2001.
+
+\bibitem{kalam03}
+Anas Abou~El Kalam, R~El Baida, Philippe Balbiani, Salem Benferhat,
+  Fr{\'e}d{\'e}ric Cuppens, Yves Deswarte, Alexandre Miege, Claire Saurel, and
+  Gilles Trouessin.
+\newblock Organization based access control.
+\newblock In {\em Proceedings POLICY 2003. IEEE 4th International Workshop on
+  Policies for Distributed Systems and Networks}, pages 120--131. IEEE, 2003.
+
+\bibitem{lindqvist06}
+Hakan Lindqvist.
+\newblock Mandatory access control.
+\newblock {\em Master's thesis in computing science, Umea University,
+  Department of Computing Science, SE-901}, 87, 2006.
+
+\bibitem{rajpoot15}
+Qasim~Mahmood Rajpoot, Christian~Damsgaard Jensen, and Ram Krishnan.
+\newblock Attributes enhanced role-based access control model.
+\newblock In {\em International Conference on Trust and Privacy in Digital
+  Business}, pages 3--17. Springer, 2015.
+
+\bibitem{rjaibi04}
+Walid Rjaibi and Paul Bird.
+\newblock A multi-purpose implementation of mandatory access control in
+  relational database management systems.
+\newblock In {\em Proceedings of the Thirtieth international conference on Very
+  large data bases-Volume 30}, pages 1010--1020, 2004.
+
+\bibitem{samarati00}
+Pierangela Samarati and Sabrina Capitani~de Vimercati.
+\newblock Access control: Policies, models, and mechanisms.
+\newblock In {\em International School on Foundations of Security Analysis and
+  Design}, pages 137--196. Springer, 2000.
+
+\bibitem{sandhu96}
+Ravi~S Sandhu, Edward~J Coyne, Hal~L Feinstein, and Charles~E Youman.
+\newblock Role-based access control models.
+\newblock {\em Computer}, 29(2):38--47, 1996.
+
+\bibitem{sandhu94}
+Ravi~S Sandhu and Pierangela Samarati.
+\newblock Access control: principle and practice.
+\newblock {\em IEEE communications magazine}, 32(9):40--48, 1994.
+
+\bibitem{singh19}
+Mahendra~Pratap Singh, S~Sudharsan, and M~Vani.
+\newblock Arbac: Attribute-enabled role based access control model.
+\newblock In {\em International Conference on Security \& Privacy}, pages
+  97--111. Springer, 2019.
+
+\bibitem{theseBenoit}
+Laura P.~Fotso T.~Azanguezet~Quimatio.
+\newblock {\em Approche hiérarchique pour la modélisation du contrôle
+  d'accèss aux données et aux traitements dans les systèmes d'infotmation
+  des organisation.}
+\newblock PhD thesis, 2016.
+
+\bibitem{Vin15}
+David~Ferraiolo Vincent~Hu, D.Richard~Kuhn.
+\newblock Attributes-based access control.
+\newblock {\em Computer}, 48(2):85--88, 2015.
+
+\end{thebibliography}

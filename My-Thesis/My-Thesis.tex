@@ -1,0 +1,92 @@
+% Import du style (obligatoire)
+\input{../Template-Style/main-style}
+
+% Choisissez le type de document
+% Les deux choix possibles sont numerical (copie � diffuser num�riquement - usage abondant de couleur) et physical (copie � imprimer - moins de couleur)
+\documentType{numerical}
+
+% Choississez la langue de votre th�se (obligatoire)
+% Les choix possible sont english et fran�ais
+\switchLanguage{français}
+% Import de vos d�finitions et de votre style
+\input{defs-and-imports}
+
+% Th�se ou m�moire (\phd | \master)
+\level{\master}
+
+% Sp�cialit� de la th�se ou du m�moire: entrez la votre
+\speciality{\computerScience}
+
+% Initiales du laboratoire
+\lab{URIFIA}
+
+% Style des titres de chapitres (fieldset | titleontopright | default | section | hangnum | companion | article | demo | veelo | bringhurst | southall | chappell)
+\myChapterStyle{fieldset}
+% Style de la minitoc (fieldset | titleontopright)
+\myMiniTocStyle{fieldset}
+\begin{document}
+{
+	% Taille de la police du texte
+	\timesContentFontSize
+
+	% Code pour inclure des documents au format PDF
+	%\includepdf[pages=-, offset=72 -72]{Couverture.pdf} %Insertion de la couverture
+	%\includepdf[pages=-, offset=72 -72]{Originalite.pdf} %Attestation d'originalit�
+	%\includepdf[pages=-, offset=72 -72]{Correction.pdf} %Attestaion de correction
+
+	\pagestyle{ruled}
+	\nouppercaseheads
+	\normalfont
+	
+
+	\frontmatter
+	
+	% Inclusion des fichiers de d�dicaces et de remerciements
+	\input{declaration-authorship/declaration-authorship}
+	\input{Dedication/Dedication}
+	\input{Acknowledgements/Acknowledgements}
+	
+	% G�n�ration de la table des mati�res (avec "Table of Contents" comme titre), de la liste des symboles, de la liste des acronymes, de la liste des tableaux et de la liste des figures
+	% Des alternatives � ces commandes sont dispos: il suffit juste d'ajouter le suffixe "Star" pour ne pas les mettre dans la table de mati�re
+	\myTableOfContents{Table de matières}
+	\myListOfSymbols{}
+	\myListOfAcronyms{}
+	\myListOfTables{}
+	\myListOfFigures{}
+	
+	% Resum� et abstract
+	\input{Resume/Resume}
+	\input{other-pages/thesis-title}
+	\input{Abstract/Abstract}
+	\clearpage
+	
+	% *********** Partie principale ***********
+	\mainmatter
+	
+	% Inclusion des diff�rents chapitres
+	\input{Introduction/Introduction}
+	\part{A part}
+	\input{Chap1/Chap1}
+	\input{Chap2/Chap2}
+	\part{Another part}
+	\input{Chap3/Chap3}
+	\input{Chap4/Chap4}
+	
+	%Ainsi de suite
+	
+	\input{Conclusion/Conclusion}
+	
+	%************ Bibliographie ***************
+	% La charte de l'�cole doctorale recommande un style dans lequel les citations seront de la forme (NomAuteur, Ann�e) ou (NomAuteur et al., Ann�e)
+	%\myBibliography{style}{url du fichier .bib}
+	%\myBibliography{vancouver}{bibliography}
+	\bibliography{bibliography}
+	\bibliographystyle{plainurl}
+	% *********** Annexes *********************
+	\appendix
+	
+	\input{Appendices/Appendix1}
+	\input{Appendices/Appendix2}
+	%Ainsi de suite
+}
+\end{document}
