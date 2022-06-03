@@ -2,13 +2,18 @@
 
 \myMiniToc{section}{Sommaire} 
 
+\mySection{Introduction}{}\label{sectionIntroduction}
+
+Dans le chapitre précédent, nous avons présenté les différents modèles de contrôles d'accès y compris le modèle HOr-BAC. Le but de notre travail étant la proposition d'un modèle de contrôle d'accès basé sur la hiérarchie organisationnelle et les attributs. En effet, ce modèle doit être capable de specifier des r  nous allons dans ce chapitre présenter cette approche d'interaction dans un système d'information. Nous commencerons dans un premier temps par présenter les concepts qui nous permettrons de faire cette interaction ; Ensuite nous continuerons par décrire les différents processus du parapheur électronique tout en ressortant la structure organisationnelle
+de l'organisation.
+
 \mySection{Concepts de base du modèle AHOr-BAC}{}\label{sectionConcept}
 
 \mySubSection{Organisation}{}\label{sectionOrganisation} 
 Une organisation est un ensemble d'individus, regroupés au sein d'une structure régulée, ayant un système de communication pour faciliter la circulation de l'information, dans le but de répondre à des besoins et d'atteindre des objectifs déterminés. Elle est représenté dans notre modèle par l'entité \textit{Organisation}
 
 \mySubSection{Employé Métier}{}\label{sectionEmployeMetier} 
-Il représente une personne physiquement identifiable ayant un rôle actif dans l'organisation. C'est la seule entité réellement active dans l'organisation. Tout comme dans HOr-BAC, ce concept permet d'empêcher la création des entités virtuelles dans le système d'information par le super-utilisateur. Car, si l'utilisateur est une personne physique, il pourra être facilement contrôlé. les employé métier peuvent avoir un ou plusieurs attributs, et chaque attribut peut avoir une ou plusieurs valeurs d'attributs qui sont représentés par les entités \textit{AttributE} et \textit{valeurAttributE} respectivement. Dans notre modèle, on attribut une ou plusieurs valeurs d'attributs d'employés à chaque Employé métier. Ce qui est représenté par la relation suivante: %\textit{Useruavassignment} \subseteq \textit{Users} \times \textit{Userattributevalues}
+Il représente une personne physiquement identifiable ayant un rôle actif dans l'organisation. C'est la seule entité réellement active dans l'organisation. Tout comme dans HOr-BAC, ce concept permet d'empêcher la création des entités virtuelles dans le système d'information par le super-utilisateur. Car, si l'utilisateur est une personne physique, il pourra être facilement contrôlé. les employé métier peuvent avoir un ou plusieurs attributs, et chaque attribut peut avoir une ou plusieurs valeurs d'attributs qui sont représentés par les entités \textit{AttributE} et \textit{valeurAttributE} respectivement. Dans notre modèle, on attribue une ou plusieurs valeurs d'attributs d'employés à chaque Employé métier. Ce qui est représenté par la relation suivante: %\textit{Useruavassignment} \subseteq \textit{Users} \times \textit{Userattributevalues}
 
 \begin{figure}[h!]
     \centering
@@ -203,16 +208,16 @@ Dans notre modèle, une règle peut être assignée à plusieurs permissions, et
 
 \begin{figure}[h!]
     \centering
-		\includegraphics[scale=0.7]{chap2/images/ACM.png}
+		\includegraphics[scale=0.6]{chap3/images/regle-peutsuggerer.png}
     \caption{Affectation des règles aux permissions de bas niveaux 1}
-	 \label{figAcm}
+	 \label{figregle-peutsuggerer}
 \end{figure} 
 
 \begin{figure}[h!]
     \centering
-		\includegraphics[scale=0.7]{chap2/images/ACM.png}
+		\includegraphics[scale=0.6]{chap3/images/reglePeutTraiter.png}
     \caption{Affectation des règles aux permissions de bas niveaux 2}
-	 \label{figAcm}
+	 \label{figreglePeutTraiter}
 \end{figure} 
 \mySection{Algorithme du parapheur électronique}{}\label{sectionParapheur}
 

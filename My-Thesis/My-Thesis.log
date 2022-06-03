@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.4.17)  3 JUN 2022 11:49
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.4.17)  3 JUN 2022 16:53
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1797,13 +1797,10 @@ Package: relsize 2013/03/29 ver 4.1
 LaTeX Warning: Label `sectionIntroduction' multiply defined.
 
 
+LaTeX Warning: Label `sectionIntroduction' multiply defined.
+
+
 LaTeX Warning: Label `sectionRelation' multiply defined.
-
-
-LaTeX Warning: Label `figAcm' multiply defined.
-
-
-LaTeX Warning: Label `figAcm' multiply defined.
 
 
 LaTeX Warning: Label `figAcm' multiply defined.
@@ -2468,7 +2465,7 @@ Overfull \vbox (2.49998pt too high) has occurred while \output is active []
 
 \openout7 = `My-Thesis.mw'.
 
-<chap1/images/Ac.png, id=751, 389.20406pt x 98.61844pt>
+<chap1/images/Ac.png, id=756, 389.20406pt x 98.61844pt>
 File: chap1/images/Ac.png Graphic file (type png)
 <use chap1/images/Ac.png>
 Package pdftex.def Info: chap1/images/Ac.png  used on input line 37.
@@ -2500,7 +2497,7 @@ Overfull \hbox (3.33945pt too wide) in paragraph at lines 52--52
 ateur et sur l'exactitude
  []
 
-<chap1/images/controle.png, id=761, 467.49657pt x 358.33875pt>
+<chap1/images/controle.png, id=766, 467.49657pt x 358.33875pt>
 File: chap1/images/controle.png Graphic file (type png)
 <use chap1/images/controle.png>
 Package pdftex.def Info: chap1/images/controle.png  used on input line 60.
@@ -2577,7 +2574,7 @@ Overfull \vbox (2.49998pt too high) has occurred while \output is active []
 
 \openout7 = `My-Thesis.mw'.
 
-<chap2/images/ACM.png, id=805, 463.7325pt x 155.83218pt>
+<chap2/images/ACM.png, id=810, 463.7325pt x 155.83218pt>
 File: chap2/images/ACM.png Graphic file (type png)
 <use chap2/images/ACM.png>
 Package pdftex.def Info: chap2/images/ACM.png  used on input line 44.
@@ -2603,7 +2600,7 @@ Overfull \hbox (9.13927pt too wide) in paragraph at lines 57--58
 'accès est l'utilisation
  []
 
-<chap2/images/acl.png, id=814, 352.31625pt x 385.44pt>
+<chap2/images/acl.png, id=819, 352.31625pt x 385.44pt>
 File: chap2/images/acl.png Graphic file (type png)
 <use chap2/images/acl.png>
 Package pdftex.def Info: chap2/images/acl.png  used on input line 62.
@@ -2690,7 +2687,7 @@ Overfull \vbox (2.49998pt too high) has occurred while \output is active []
 
 \openout7 = `My-Thesis.mw'.
 
-<chap2/images/RBACstandard.png, id=848, 509.65407pt x 57.21375pt>
+<chap2/images/RBACstandard.png, id=853, 509.65407pt x 57.21375pt>
 File: chap2/images/RBACstandard.png Graphic file (type png)
 <use chap2/images/RBACstandard.png>
 Package pdftex.def Info: chap2/images/RBACstandard.png  used on input line 103.
@@ -2709,12 +2706,12 @@ Overfull \vbox (2.49998pt too high) has occurred while \output is active []
 
 \openout7 = `My-Thesis.mw'.
 
-<chap2/images/rbac.png, id=856, 423.83344pt x 117.43875pt>
+<chap2/images/rbac.png, id=861, 423.83344pt x 117.43875pt>
 File: chap2/images/rbac.png Graphic file (type png)
 <use chap2/images/rbac.png>
 Package pdftex.def Info: chap2/images/rbac.png  used on input line 124.
 (pdftex.def)             Requested size: 296.68137pt x 82.20654pt.
-<chap2/images/HierachieRole.png, id=858, 544.28343pt x 243.91125pt>
+<chap2/images/HierachieRole.png, id=863, 544.28343pt x 243.91125pt>
 File: chap2/images/HierachieRole.png Graphic file (type png)
 <use chap2/images/HierachieRole.png>
 Package pdftex.def Info: chap2/images/HierachieRole.png  used on input line 139
@@ -2842,7 +2839,7 @@ Overfull \hbox (31.51054pt too wide) in paragraph at lines 217--217
 i sat-is-font l'autorisation
  []
 
-<chap2/images/abac.png, id=900, 414.04688pt x 261.22594pt>
+<chap2/images/abac.png, id=905, 414.04688pt x 261.22594pt>
 File: chap2/images/abac.png Graphic file (type png)
 <use chap2/images/abac.png>
 Package pdftex.def Info: chap2/images/abac.png  used on input line 228.
@@ -2914,13 +2911,13 @@ Overfull \vbox (2.49998pt too high) has occurred while \output is active []
 
 \openout7 = `My-Thesis.mw'.
 
-<chap2/images/permissionauto.png, id=919, 400.49625pt x 280.79906pt>
+<chap2/images/permissionauto.png, id=924, 400.49625pt x 280.79906pt>
 File: chap2/images/permissionauto.png Graphic file (type png)
 <use chap2/images/permissionauto.png>
 Package pdftex.def Info: chap2/images/permissionauto.png  used on input line 27
 3.
 (pdftex.def)             Requested size: 280.34546pt x 196.558pt.
-<chap2/images/roleAttribue.png, id=920, 420.06938pt x 298.86656pt>
+<chap2/images/roleAttribue.png, id=925, 420.06938pt x 298.86656pt>
 File: chap2/images/roleAttribue.png Graphic file (type png)
 <use chap2/images/roleAttribue.png>
 Package pdftex.def Info: chap2/images/roleAttribue.png  used on input line 282.
@@ -2939,7 +2936,7 @@ Overfull \vbox (2.49998pt too high) has occurred while \output is active []
 [32 <./chap2/images/permissionauto.png>] (My-Thesis.mw)
 \openout7 = `My-Thesis.mw'.
 
-<chap2/images/rolepermissionauto.png, id=926, 393.72093pt x 272.51813pt>
+<chap2/images/rolepermissionauto.png, id=931, 393.72093pt x 272.51813pt>
 File: chap2/images/rolepermissionauto.png Graphic file (type png)
 <use chap2/images/rolepermissionauto.png>
 Package pdftex.def Info: chap2/images/rolepermissionauto.png  used on input lin
@@ -3005,7 +3002,7 @@ Overfull \vbox (16.99998pt too high) has occurred while \output is active []
 [36] (My-Thesis.mw)
 \openout7 = `My-Thesis.mw'.
 
-<chap2/images/aerbac.png, id=951, 501.37312pt x 230.36063pt>
+<chap2/images/aerbac.png, id=956, 501.37312pt x 230.36063pt>
 File: chap2/images/aerbac.png Graphic file (type png)
 <use chap2/images/aerbac.png>
 Package pdftex.def Info: chap2/images/aerbac.png  used on input line 335.
@@ -3166,7 +3163,7 @@ Overfull \vbox (16.99998pt too high) has occurred while \output is active []
 
 \openout7 = `My-Thesis.mw'.
 
-<chap2/images/hor-bac.png, id=1010, 488.57532pt x 275.52937pt>
+<chap2/images/hor-bac.png, id=1015, 488.57532pt x 275.52937pt>
 File: chap2/images/hor-bac.png Graphic file (type png)
 <use chap2/images/hor-bac.png>
 Package pdftex.def Info: chap2/images/hor-bac.png  used on input line 459.
@@ -3222,12 +3219,6 @@ Overfull \vbox (2.49998pt too high) has occurred while \output is active []
 \openout7 = `My-Thesis.mw'.
 
  (Chap3/Chap3.tex (My-Thesis.ptc)
-Overfull \hbox (18.3599pt too wide) in paragraph at lines 11--12
-\T1/ptm/m/n/13 comme dans HOr-BAC, ce con-cept per-met d'empêcher la créa-tion 
-des en-tités virtuelles
- []
-
-
 Overfull \vbox (2.49998pt too high) has occurred while \output is active []
 
 \openout7 = `My-Thesis.mw'.
@@ -3250,85 +3241,78 @@ Overfull \vbox (2.49998pt too high) has occurred while \output is active []
 
 \openout7 = `My-Thesis.mw'.
 
-\openout7 = `My-Thesis.mw'.
 
-\openout7 = `My-Thesis.mw'.
+Overfull \hbox (18.3599pt too wide) in paragraph at lines 16--17
+\T1/ptm/m/n/13 comme dans HOr-BAC, ce con-cept per-met d'empêcher la créa-tion 
+des en-tités virtuelles
+ []
 
-<chap3/images/employe_attribut.png, id=1037, 280.79906pt x 197.98969pt>
+<chap3/images/employe_attribut.png, id=1043, 280.79906pt x 197.98969pt>
 File: chap3/images/employe_attribut.png Graphic file (type png)
 <use chap3/images/employe_attribut.png>
 Package pdftex.def Info: chap3/images/employe_attribut.png  used on input line 
-15.
+20.
 (pdftex.def)             Requested size: 196.558pt x 138.59183pt.
-<chap3/images/ressource_attribut.png, id=1038, 371.13657pt x 193.47281pt>
+<chap3/images/ressource_attribut.png, id=1044, 371.13657pt x 193.47281pt>
 File: chap3/images/ressource_attribut.png Graphic file (type png)
 <use chap3/images/ressource_attribut.png>
 Package pdftex.def Info: chap3/images/ressource_attribut.png  used on input lin
-e 26.
+e 31.
 (pdftex.def)             Requested size: 259.79381pt x 135.43004pt.
-
-Overfull \vbox (2.49998pt too high) has occurred while \output is active []
-
-\openout7 = `My-Thesis.mw'.
-
-
-[52 <./chap3/images/employe_attribut.png> <./chap3/images/ressource_attribut.pn
-g>] (My-Thesis.mw)
-\openout7 = `My-Thesis.mw'.
-
-\openout7 = `My-Thesis.mw'.
-
-\openout7 = `My-Thesis.mw'.
-
-\openout7 = `My-Thesis.mw'.
-
-\openout7 = `My-Thesis.mw'.
-
-
-Overfull \vbox (2.49998pt too high) has occurred while \output is active []
-
-\openout7 = `My-Thesis.mw'.
-
-
-[53] (My-Thesis.mw)
-\openout7 = `My-Thesis.mw'.
-
-\openout7 = `My-Thesis.mw'.
-
-\openout7 = `My-Thesis.mw'.
-
-\openout7 = `My-Thesis.mw'.
-
-\openout7 = `My-Thesis.mw'.
-
-\openout7 = `My-Thesis.mw'.
-
-\openout7 = `My-Thesis.mw'.
-
-\openout7 = `My-Thesis.mw'.
-
-\openout7 = `My-Thesis.mw'.
-
-<chap3/images/structureorg.png, id=1050, 479.54156pt x 368.87813pt>
-File: chap3/images/structureorg.png Graphic file (type png)
-<use chap3/images/structureorg.png>
-Package pdftex.def Info: chap3/images/structureorg.png  used on input line 53.
-(pdftex.def)             Requested size: 335.6768pt x 258.21292pt.
-
-Overfull \hbox (1.90279pt too wide) in paragraph at lines 60--61
-\T1/ptm/m/n/13 Tout comme l'employé métier et la ressource, un con-texte peut a
-voir un ou plusieurs
- []
-
-<chap3/images/contexte_Attribut.png, id=1051, 363.60844pt x 198.7425pt>
-File: chap3/images/contexte_Attribut.png Graphic file (type png)
-<use chap3/images/contexte_Attribut.png>
-Package pdftex.def Info: chap3/images/contexte_Attribut.png  used on input line
- 64.
-(pdftex.def)             Requested size: 254.52417pt x 139.11879pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
+
+Overfull \vbox (2.49998pt too high) has occurred while \output is active []
+
+\openout7 = `My-Thesis.mw'.
+
+
+[52 <./chap3/images/employe_attribut.png>] (My-Thesis.mw)
+\openout7 = `My-Thesis.mw'.
+
+\openout7 = `My-Thesis.mw'.
+
+\openout7 = `My-Thesis.mw'.
+
+\openout7 = `My-Thesis.mw'.
+
+\openout7 = `My-Thesis.mw'.
+
+\openout7 = `My-Thesis.mw'.
+
+\openout7 = `My-Thesis.mw'.
+
+
+Overfull \vbox (2.49998pt too high) has occurred while \output is active []
+
+\openout7 = `My-Thesis.mw'.
+
+
+[53 <./chap3/images/ressource_attribut.png>] (My-Thesis.mw)
+\openout7 = `My-Thesis.mw'.
+
+\openout7 = `My-Thesis.mw'.
+
+\openout7 = `My-Thesis.mw'.
+
+\openout7 = `My-Thesis.mw'.
+
+\openout7 = `My-Thesis.mw'.
+
+\openout7 = `My-Thesis.mw'.
+
+\openout7 = `My-Thesis.mw'.
+
+\openout7 = `My-Thesis.mw'.
+
+\openout7 = `My-Thesis.mw'.
+
+<chap3/images/structureorg.png, id=1056, 479.54156pt x 368.87813pt>
+File: chap3/images/structureorg.png Graphic file (type png)
+<use chap3/images/structureorg.png>
+Package pdftex.def Info: chap3/images/structureorg.png  used on input line 58.
+(pdftex.def)             Requested size: 335.6768pt x 258.21292pt.
 
 Overfull \vbox (2.49998pt too high) has occurred while \output is active []
 
@@ -3343,24 +3327,23 @@ Overfull \vbox (2.49998pt too high) has occurred while \output is active []
 \openout7 = `My-Thesis.mw'.
 
 
-Overfull \hbox (7.45306pt too wide) in paragraph at lines 76--77
+Overfull \hbox (1.90279pt too wide) in paragraph at lines 65--66
+\T1/ptm/m/n/13 Tout comme l'employé métier et la ressource, un con-texte peut a
+voir un ou plusieurs
+ []
+
+<chap3/images/contexte_Attribut.png, id=1062, 363.60844pt x 198.7425pt>
+File: chap3/images/contexte_Attribut.png Graphic file (type png)
+<use chap3/images/contexte_Attribut.png>
+Package pdftex.def Info: chap3/images/contexte_Attribut.png  used on input line
+ 69.
+(pdftex.def)             Requested size: 254.52417pt x 139.11879pt.
+
+Overfull \hbox (7.45306pt too wide) in paragraph at lines 81--82
 \T1/ptm/m/n/13 pour les em-ployés métiers peu-vent être com-posées des valeurs 
 d'attributs d'employé,
  []
 
-<chap3/images/emploie.png, id=1058, 478.03593pt x 208.52907pt>
-File: chap3/images/emploie.png Graphic file (type png)
-<use chap3/images/emploie.png>
-Package pdftex.def Info: chap3/images/emploie.png  used on input line 86.
-(pdftex.def)             Requested size: 334.62286pt x 145.96935pt.
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-<chap3/images/nomme.png, id=1060, 476.53032pt x 203.25937pt>
-File: chap3/images/nomme.png Graphic file (type png)
-<use chap3/images/nomme.png>
-Package pdftex.def Info: chap3/images/nomme.png  used on input line 97.
-(pdftex.def)             Requested size: 333.56895pt x 142.28058pt.
 
 Overfull \vbox (2.49998pt too high) has occurred while \output is active []
 
@@ -3382,24 +3365,21 @@ Overfull \vbox (2.49998pt too high) has occurred while \output is active []
 
 \openout7 = `My-Thesis.mw'.
 
-\openout7 = `My-Thesis.mw'.
-
-\openout7 = `My-Thesis.mw'.
-
-<chap3/images/place-sous.png, id=1066, 472.76625pt x 198.7425pt>
+<chap3/images/emploie.png, id=1069, 478.03593pt x 208.52907pt>
+File: chap3/images/emploie.png Graphic file (type png)
+<use chap3/images/emploie.png>
+Package pdftex.def Info: chap3/images/emploie.png  used on input line 91.
+(pdftex.def)             Requested size: 334.62286pt x 145.96935pt.
+<chap3/images/nomme.png, id=1071, 476.53032pt x 203.25937pt>
+File: chap3/images/nomme.png Graphic file (type png)
+<use chap3/images/nomme.png>
+Package pdftex.def Info: chap3/images/nomme.png  used on input line 102.
+(pdftex.def)             Requested size: 333.56895pt x 142.28058pt.
+<chap3/images/place-sous.png, id=1072, 472.76625pt x 198.7425pt>
 File: chap3/images/place-sous.png Graphic file (type png)
 <use chap3/images/place-sous.png>
-Package pdftex.def Info: chap3/images/place-sous.png  used on input line 108.
+Package pdftex.def Info: chap3/images/place-sous.png  used on input line 113.
 (pdftex.def)             Requested size: 330.93411pt x 139.11879pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-<chap3/images/subordonne.png, id=1068, 184.43906pt x 216.81pt>
-File: chap3/images/subordonne.png Graphic file (type png)
-<use chap3/images/subordonne.png>
-Package pdftex.def Info: chap3/images/subordonne.png  used on input line 119.
-(pdftex.def)             Requested size: 129.10645pt x 151.76596pt.
 
 Overfull \vbox (2.49998pt too high) has occurred while \output is active []
 
@@ -3421,14 +3401,19 @@ Overfull \vbox (2.49998pt too high) has occurred while \output is active []
 
 \openout7 = `My-Thesis.mw'.
 
+\openout7 = `My-Thesis.mw'.
+
+\openout7 = `My-Thesis.mw'.
+
+<chap3/images/subordonne.png, id=1080, 184.43906pt x 216.81pt>
+File: chap3/images/subordonne.png Graphic file (type png)
+<use chap3/images/subordonne.png>
+Package pdftex.def Info: chap3/images/subordonne.png  used on input line 124.
+(pdftex.def)             Requested size: 129.10645pt x 151.76596pt.
 File: chap2/images/ACM.png Graphic file (type png)
 <use chap2/images/ACM.png>
-Package pdftex.def Info: chap2/images/ACM.png  used on input line 130.
+Package pdftex.def Info: chap2/images/ACM.png  used on input line 135.
 (pdftex.def)             Requested size: 324.61052pt x 109.08177pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
 
 Overfull \vbox (2.49998pt too high) has occurred while \output is active []
 
@@ -3447,28 +3432,28 @@ Overfull \vbox (2.49998pt too high) has occurred while \output is active []
 
 \openout7 = `My-Thesis.mw'.
 
-<chap3/images/considere.png, id=1081, 478.03593pt x 205.5178pt>
+<chap3/images/considere.png, id=1087, 478.03593pt x 205.5178pt>
 File: chap3/images/considere.png Graphic file (type png)
 <use chap3/images/considere.png>
-Package pdftex.def Info: chap3/images/considere.png  used on input line 141.
+Package pdftex.def Info: chap3/images/considere.png  used on input line 146.
 (pdftex.def)             Requested size: 334.62286pt x 143.86148pt.
-<chap3/images/defini.png, id=1083, 471.26062pt x 316.18124pt>
+<chap3/images/defini.png, id=1089, 471.26062pt x 316.18124pt>
 File: chap3/images/defini.png Graphic file (type png)
 <use chap3/images/defini.png>
-Package pdftex.def Info: chap3/images/defini.png  used on input line 152.
+Package pdftex.def Info: chap3/images/defini.png  used on input line 157.
 (pdftex.def)             Requested size: 329.88019pt x 221.32535pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
-Overfull \hbox (0.69229pt too wide) in paragraph at lines 159--162
+Overfull \hbox (0.69229pt too wide) in paragraph at lines 164--167
 \T1/ptm/m/n/13 - les per-mis-sions dites de pré-pa-ra-tion: en-core ap-pelées p
 er-mis-sions opéra-tionnelles.
  []
 
 
-Overfull \hbox (15.64162pt too wide) in paragraph at lines 159--162
+Overfull \hbox (15.64162pt too wide) in paragraph at lines 164--167
 \T1/ptm/m/n/13 tre.) des re-quêtes à leurs hiérar-chie. Elles sont matéri-al-is
 ées par la re-la-tion permission-
  []
@@ -3490,17 +3475,20 @@ Overfull \vbox (2.49998pt too high) has occurred while \output is active []
 
 \openout7 = `My-Thesis.mw'.
 
-<chap3/images/permissionO.png, id=1092, 472.76625pt x 321.45094pt>
+<chap3/images/permissionO.png, id=1098, 472.76625pt x 321.45094pt>
 File: chap3/images/permissionO.png Graphic file (type png)
 <use chap3/images/permissionO.png>
-Package pdftex.def Info: chap3/images/permissionO.png  used on input line 165.
+Package pdftex.def Info: chap3/images/permissionO.png  used on input line 170.
 (pdftex.def)             Requested size: 330.93411pt x 225.01411pt.
-<chap3/images/permissionA.png, id=1093, 474.27188pt x 369.63094pt>
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<chap3/images/permissionA.png, id=1099, 474.27188pt x 369.63094pt>
 File: chap3/images/permissionA.png Graphic file (type png)
 <use chap3/images/permissionA.png>
-Package pdftex.def Info: chap3/images/permissionA.png  used on input line 172.
+Package pdftex.def Info: chap3/images/permissionA.png  used on input line 177.
 (pdftex.def)             Requested size: 331.98805pt x 258.73988pt.
-
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
@@ -3510,54 +3498,63 @@ Overfull \vbox (2.49998pt too high) has occurred while \output is active []
 \openout7 = `My-Thesis.mw'.
 
 
-[59 <./chap3/images/defini.png> <./chap3/images/permissionO.png>] (My-Thesis.mw
-)
+[59 <./chap3/images/defini.png>] (My-Thesis.mw)
 \openout7 = `My-Thesis.mw'.
 
-<chap3/images/peut-suggerer.png, id=1102, 503.63156pt x 225.09094pt>
+\openout7 = `My-Thesis.mw'.
+
+\openout7 = `My-Thesis.mw'.
+
+\openout7 = `My-Thesis.mw'.
+
+\openout7 = `My-Thesis.mw'.
+
+<chap3/images/peut-suggerer.png, id=1107, 503.63156pt x 225.09094pt>
 File: chap3/images/peut-suggerer.png Graphic file (type png)
 <use chap3/images/peut-suggerer.png>
-Package pdftex.def Info: chap3/images/peut-suggerer.png  used on input line 185
+Package pdftex.def Info: chap3/images/peut-suggerer.png  used on input line 190
 .
 (pdftex.def)             Requested size: 352.53969pt x 157.56258pt.
 
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-<chap3/images/peut-traiter.png, id=1103, 517.18219pt x 239.39438pt>
-File: chap3/images/peut-traiter.png Graphic file (type png)
-<use chap3/images/peut-traiter.png>
-Package pdftex.def Info: chap3/images/peut-traiter.png  used on input line 192.
-
-(pdftex.def)             Requested size: 362.02505pt x 167.5749pt.
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-File: chap2/images/ACM.png Graphic file (type png)
-<use chap2/images/ACM.png>
-Package pdftex.def Info: chap2/images/ACM.png  used on input line 206.
-(pdftex.def)             Requested size: 324.61052pt x 109.08177pt.
-
 Overfull \vbox (2.49998pt too high) has occurred while \output is active []
 
 \openout7 = `My-Thesis.mw'.
 
 
-[60 <./chap3/images/permissionA.png>] (My-Thesis.mw)
+[60 <./chap3/images/permissionO.png> <./chap3/images/permissionA.png>]
+(My-Thesis.mw)
 \openout7 = `My-Thesis.mw'.
 
-\openout7 = `My-Thesis.mw'.
+<chap3/images/peut-traiter.png, id=1114, 517.18219pt x 239.39438pt>
+File: chap3/images/peut-traiter.png Graphic file (type png)
+<use chap3/images/peut-traiter.png>
+Package pdftex.def Info: chap3/images/peut-traiter.png  used on input line 197.
 
-\openout7 = `My-Thesis.mw'.
+(pdftex.def)             Requested size: 362.02505pt x 167.5749pt.
+<chap3/images/regle-peutsuggerer.png, id=1115, 800.9925pt x 365.86688pt>
+File: chap3/images/regle-peutsuggerer.png Graphic file (type png)
+<use chap3/images/regle-peutsuggerer.png>
+Package pdftex.def Info: chap3/images/regle-peutsuggerer.png  used on input lin
+e 211.
+(pdftex.def)             Requested size: 480.5992pt x 219.52182pt.
 
-\openout7 = `My-Thesis.mw'.
+Overfull \hbox (53.16766pt too wide) in paragraph at lines 211--212
+ [][] 
+ []
 
-\openout7 = `My-Thesis.mw'.
 
-File: chap2/images/ACM.png Graphic file (type png)
-<use chap2/images/ACM.png>
-Package pdftex.def Info: chap2/images/ACM.png  used on input line 213.
-(pdftex.def)             Requested size: 324.61052pt x 109.08177pt.
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<chap3/images/reglePeutTraiter.png, id=1116, 816.04875pt x 359.09157pt>
+File: chap3/images/reglePeutTraiter.png Graphic file (type png)
+<use chap3/images/reglePeutTraiter.png>
+Package pdftex.def Info: chap3/images/reglePeutTraiter.png  used on input line 
+218.
+(pdftex.def)             Requested size: 489.63304pt x 215.45659pt.
+
+Overfull \hbox (62.2015pt too wide) in paragraph at lines 218--219
+ [][] 
+ []
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
@@ -3582,7 +3579,8 @@ Overfull \vbox (2.49998pt too high) has occurred while \output is active []
 \openout7 = `My-Thesis.mw'.
 
 
-[62] (My-Thesis.mw)
+[62 <./chap3/images/regle-peutsuggerer.png> <./chap3/images/reglePeutTraiter.pn
+g>] (My-Thesis.mw)
 \openout7 = `My-Thesis.mw'.
 
 \openout7 = `My-Thesis.mw'.
@@ -3590,15 +3588,9 @@ Overfull \vbox (2.49998pt too high) has occurred while \output is active []
 \openout7 = `My-Thesis.mw'.
 
 
-Overfull \hbox (23.15105pt too wide) in paragraph at lines 234--234
+Overfull \hbox (23.15105pt too wide) in paragraph at lines 239--239
 []\T1/ptm/m/n/13 Cette procé-dure crée les dif-férents modes de traite-ment uti
 l-isés dans l'organisation
- []
-
-
-Overfull \hbox (3.43575pt too wide) in paragraph at lines 250--254
-\T1/ptm/m/n/13 ^^V Lorsque le mode de traite-ment est temps dif-féré, la de-man
-de émise par l'émetteur
  []
 
 
@@ -3615,6 +3607,12 @@ Overfull \vbox (2.49998pt too high) has occurred while \output is active []
 \openout7 = `My-Thesis.mw'.
 
 
+Overfull \hbox (3.43575pt too wide) in paragraph at lines 255--259
+\T1/ptm/m/n/13 ^^V Lorsque le mode de traite-ment est temps dif-féré, la de-man
+de émise par l'émetteur
+ []
+
+
 Overfull \vbox (2.49998pt too high) has occurred while \output is active []
 
 \openout7 = `My-Thesis.mw'.
@@ -3623,13 +3621,21 @@ Overfull \vbox (2.49998pt too high) has occurred while \output is active []
 [64] (My-Thesis.mw)
 \openout7 = `My-Thesis.mw'.
 
-<chap3/images/emission.png, id=1129, 453.19313pt x 371.13657pt>
+\openout7 = `My-Thesis.mw'.
+
+\openout7 = `My-Thesis.mw'.
+
+<chap3/images/emission.png, id=1139, 453.19313pt x 371.13657pt>
 File: chap3/images/emission.png Graphic file (type png)
 <use chap3/images/emission.png>
-Package pdftex.def Info: chap3/images/emission.png  used on input line 257.
+Package pdftex.def Info: chap3/images/emission.png  used on input line 262.
 (pdftex.def)             Requested size: 317.23302pt x 259.79381pt.
 
-Overfull \hbox (1.04108pt too wide) in paragraph at lines 264--265
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Overfull \hbox (1.04108pt too wide) in paragraph at lines 269--270
 []\T1/ptm/m/n/13 Cette phase est dé-clenché lorsque le supérieur hiérar-chique 
 d'un em-ployé métier
  []
@@ -3640,7 +3646,7 @@ Overfull \vbox (2.49998pt too high) has occurred while \output is active []
 \openout7 = `My-Thesis.mw'.
 
 
-[65 <./chap3/images/emission.png>] (My-Thesis.mw)
+[65] (My-Thesis.mw)
 \openout7 = `My-Thesis.mw'.
 
 \openout7 = `My-Thesis.mw'.
@@ -3653,25 +3659,38 @@ Overfull \vbox (2.49998pt too high) has occurred while \output is active []
 \openout7 = `My-Thesis.mw'.
 
 
-[66] (My-Thesis.mw)
+[66 <./chap3/images/emission.png>] (My-Thesis.mw)
 \openout7 = `My-Thesis.mw'.
 
-<chap3/images/traitement.png, id=1139, 499.8675pt x 401.24907pt>
+<chap3/images/traitement.png, id=1149, 499.8675pt x 401.24907pt>
 File: chap3/images/traitement.png Graphic file (type png)
 <use chap3/images/traitement.png>
-Package pdftex.def Info: chap3/images/traitement.png  used on input line 272.
+Package pdftex.def Info: chap3/images/traitement.png  used on input line 277.
 (pdftex.def)             Requested size: 349.90486pt x 280.87242pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
 ) (Chap4/Chap4.tex
 Overfull \vbox (2.49998pt too high) has occurred while \output is active []
 
 \openout7 = `My-Thesis.mw'.
 
 
-[67 <./chap3/images/traitement.png>] (My-Thesis.mw)
+[67] (My-Thesis.mw)
 \openout7 = `My-Thesis.mw'.
 
 \openout7 = `My-Thesis.mw'.
 
+\openout7 = `My-Thesis.mw'.
+
+
+Overfull \vbox (2.49998pt too high) has occurred while \output is active []
+
+\openout7 = `My-Thesis.mw'.
+
+
+[68 <./chap3/images/traitement.png>] (My-Thesis.mw)
 \openout7 = `My-Thesis.mw'.
 
 ) (Conclusion/Conclusion.tex
@@ -3680,7 +3699,7 @@ Overfull \vbox (2.49998pt too high) has occurred while \output is active []
 \openout7 = `My-Thesis.mw'.
 
 
-[68
+[69
 
 ] (My-Thesis.mw)
 \openout7 = `My-Thesis.mw'.
@@ -3695,7 +3714,7 @@ Overfull \vbox (2.49998pt too high) has occurred while \output is active []
 \openout7 = `My-Thesis.mw'.
 
 
-[69
+[70
 
 ] (My-Thesis.mw)
 \openout7 = `My-Thesis.mw'.
@@ -3724,7 +3743,7 @@ Overfull \vbox (2.49998pt too high) has occurred while \output is active []
 \openout7 = `My-Thesis.mw'.
 
 
-[70
+[71
 
 
 ] (My-Thesis.mw)
@@ -3740,7 +3759,7 @@ Overfull \vbox (2.49998pt too high) has occurred while \output is active []
 \openout7 = `My-Thesis.mw'.
 
 
-[71] (My-Thesis.mw)
+[72] (My-Thesis.mw)
 \openout7 = `My-Thesis.mw'.
 
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
@@ -3755,7 +3774,7 @@ Overfull \vbox (2.49998pt too high) has occurred while \output is active []
 \openout7 = `My-Thesis.mw'.
 
 
-[72
+[73
 
 ] (My-Thesis.mw)
 \openout7 = `My-Thesis.mw'.
@@ -3766,11 +3785,11 @@ Overfull \vbox (2.49998pt too high) has occurred while \output is active []
 
 
 
-LaTeX Warning: Reference `chapEditionStructure' on page 73 undefined on input l
+LaTeX Warning: Reference `chapEditionStructure' on page 74 undefined on input l
 ine 14.
 
 
-LaTeX Warning: Reference `exempleGrammaire' on page 73 undefined on input line 
+LaTeX Warning: Reference `exempleGrammaire' on page 74 undefined on input line 
 14.
 
 )
@@ -3789,7 +3808,7 @@ Overfull \vbox (2.49998pt too high) has occurred while \output is active []
 \openout7 = `My-Thesis.mw'.
 
 
-[73
+[74
 
 ] (My-Thesis.mw)
 \openout7 = `My-Thesis.mw'.
@@ -3804,7 +3823,7 @@ Overfull \vbox (2.49998pt too high) has occurred while \output is active []
 \openout7 = `My-Thesis.mw'.
 
 
-[74] (My-Thesis.mw)
+[75] (My-Thesis.mw)
 \openout7 = `My-Thesis.mw'.
 
 \tf@toc=\write21
@@ -3817,6 +3836,22 @@ Overfull \vbox (2.49998pt too high) has occurred while \output is active []
 \openout7 = `My-Thesis.lof'.
 
  (My-Thesis.aux
+\openout7 = `My-Thesis.mw'.
+
+\openout7 = `My-Thesis.mw'.
+
+\openout7 = `My-Thesis.mw'.
+
+\openout7 = `My-Thesis.mw'.
+
+\openout7 = `My-Thesis.mw'.
+
+\openout7 = `My-Thesis.mw'.
+
+\openout7 = `My-Thesis.mw'.
+
+\openout7 = `My-Thesis.mw'.
+
 \openout7 = `My-Thesis.mw'.
 
 \openout7 = `My-Thesis.mw'.
@@ -5715,7 +5750,7 @@ LaTeX Warning: There were multiply-defined labels.
 \openout7 = `My-Thesis.out'.
 
 Package rerunfilecheck Info: File `My-Thesis.out' has not changed.
-(rerunfilecheck)             Checksum: 334D1C663677A3E86BAE6EA3B052CE71;30384.
+(rerunfilecheck)             Checksum: 2C5F6C006404AF160C7EC318B4BC46A6;30533.
 \openout7 = `My-Thesis.ptc'.
 
 \openout7 = `My-Thesis.toc'.
@@ -5726,13 +5761,13 @@ Package rerunfilecheck Info: File `My-Thesis.out' has not changed.
 
  ) 
 Here is how much of TeX's memory you used:
- 35043 strings out of 478582
- 664281 string characters out of 2845760
- 1085400 words of memory out of 3000000
- 51966 multiletter control sequences out of 15000+600000
+ 35065 strings out of 478582
+ 665023 string characters out of 2845760
+ 1086450 words of memory out of 3000000
+ 51982 multiletter control sequences out of 15000+600000
  611685 words of font info for 255 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 136i,15n,136p,3175b,1276s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 136i,15n,136p,3175b,1278s stack positions out of 10000i,1000n,20000p,200000b,80000s
 {C:/Users/al/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc} <C:\U
 sers\al\AppData\Local\MiKTeX\fonts/pk/ljfour/public/wasy/dpi720\wasy10.pk><C:/U
 sers/al/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb
@@ -5748,9 +5783,9 @@ mes/utmb8a.pfb><C:/Users/al/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times
 tmr8a.pfb><C:/Users/al/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr
 i8a.pfb><C:/Users/al/AppData/Local/Programs/MiKTeX/fonts/type1/urw/zapfchan/uzc
 mi8a.pfb>
-Output written on My-Thesis.pdf (89 pages, 1594272 bytes).
+Output written on My-Thesis.pdf (90 pages, 1667581 bytes).
 PDF statistics:
- 1295 PDF objects out of 1440 (max. 8388607)
- 251 named destinations out of 1000 (max. 500000)
- 1026 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1311 PDF objects out of 1440 (max. 8388607)
+ 253 named destinations out of 1000 (max. 500000)
+ 1044 words of extra memory for PDF output out of 10000 (max. 10000000)
 
